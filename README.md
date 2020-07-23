@@ -22,9 +22,11 @@
 <a href="https://linkedin.com/in/lianapigeot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lianapigeot" height="20" width="20" /></a>
 <a href="https://medium.com/@liana.pigeot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@liana.pigeot" height="20" width="20" /></a>
 </p>
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
+
 **nialna/nialna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
