@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [A small game made in Godot](https://blog.lianapigeot.com/projects/grassy-chimera/), and making a new portfolio in React
 
-- 👩‍💻 All of my projects are available at [https://lianapigeot.com/](https://lianapigeot.com/)
+- 👩‍💻 All of my game projects are available at [https://lianapigeot.com/](https://lianapigeot.com/)
 
 - 📝 I regulary write articles on [https://blog.lianapigeot.com/](https://blog.lianapigeot.com/) or [medium](https://medium.com/@liana.pigeot/)
 
